@@ -1,0 +1,1001 @@
+customer_id,gender,age,age_segment,total_lifetime_value,total_transactions,high_value_customer
+CUST946,Male,62,Senior (50+),2000.0,1,True
+CUST626,Female,26,Adult (25-34),2000.0,1,True
+CUST634,Male,60,Senior (50+),2000.0,1,True
+CUST773,Male,25,Adult (25-34),2000.0,1,True
+CUST420,Female,22,Young Adult (18-24),2000.0,1,True
+CUST416,Male,53,Senior (50+),2000.0,1,True
+CUST743,Female,34,Adult (25-34),2000.0,1,True
+CUST742,Female,38,Middle Age (35-49),2000.0,1,True
+CUST595,Female,18,Young Adult (18-24),2000.0,1,True
+CUST065,Male,51,Senior (50+),2000.0,1,True
+CUST561,Female,64,Senior (50+),2000.0,1,True
+CUST577,Male,21,Young Adult (18-24),2000.0,1,True
+CUST166,Male,34,Adult (25-34),2000.0,1,True
+CUST572,Male,31,Adult (25-34),2000.0,1,True
+CUST664,Female,44,Middle Age (35-49),2000.0,1,True
+CUST118,Female,30,Adult (25-34),2000.0,1,True
+CUST109,Female,34,Adult (25-34),2000.0,1,True
+CUST342,Female,43,Middle Age (35-49),2000.0,1,True
+CUST152,Male,43,Middle Age (35-49),2000.0,1,True
+CUST139,Male,36,Middle Age (35-49),2000.0,1,True
+CUST157,Male,62,Senior (50+),2000.0,1,True
+CUST155,Male,31,Adult (25-34),2000.0,1,True
+CUST789,Female,61,Senior (50+),2000.0,1,True
+CUST412,Female,19,Young Adult (18-24),2000.0,1,True
+CUST124,Male,33,Adult (25-34),2000.0,1,True
+CUST927,Male,43,Middle Age (35-49),2000.0,1,True
+CUST487,Male,44,Middle Age (35-49),2000.0,1,True
+CUST480,Female,42,Middle Age (35-49),2000.0,1,True
+CUST476,Female,27,Adult (25-34),2000.0,1,True
+CUST970,Male,59,Senior (50+),2000.0,1,True
+CUST547,Male,63,Senior (50+),2000.0,1,True
+CUST832,Male,47,Middle Age (35-49),2000.0,1,True
+CUST281,Female,29,Adult (25-34),2000.0,1,True
+CUST447,Male,22,Young Adult (18-24),2000.0,1,True
+CUST253,Female,53,Senior (50+),2000.0,1,True
+CUST875,Female,51,Senior (50+),2000.0,1,True
+CUST731,Male,54,Senior (50+),2000.0,1,True
+CUST503,Male,45,Middle Age (35-49),2000.0,1,True
+CUST808,Male,33,Adult (25-34),2000.0,1,True
+CUST700,Male,36,Middle Age (35-49),2000.0,1,True
+CUST269,Male,25,Adult (25-34),2000.0,1,True
+CUST735,Female,64,Senior (50+),2000.0,1,True
+CUST257,Male,19,Young Adult (18-24),2000.0,1,True
+CUST074,Female,18,Young Adult (18-24),2000.0,1,True
+CUST592,Female,46,Middle Age (35-49),2000.0,1,True
+CUST072,Female,20,Young Adult (18-24),2000.0,1,True
+CUST093,Female,35,Middle Age (35-49),2000.0,1,True
+CUST089,Female,55,Senior (50+),2000.0,1,True
+CUST015,Female,42,Middle Age (35-49),2000.0,1,True
+CUST111,Female,34,Adult (25-34),1500.0,1,True
+CUST193,Male,35,Middle Age (35-49),1500.0,1,True
+CUST533,Male,19,Young Adult (18-24),1500.0,1,True
+CUST676,Male,63,Senior (50+),1500.0,1,True
+CUST212,Male,21,Young Adult (18-24),1500.0,1,True
+CUST720,Female,56,Senior (50+),1500.0,1,True
+CUST711,Male,26,Adult (25-34),1500.0,1,True
+CUST710,Female,26,Adult (25-34),1500.0,1,True
+CUST452,Female,48,Middle Age (35-49),1500.0,1,True
+CUST115,Male,51,Senior (50+),1500.0,1,True
+CUST112,Male,37,Middle Age (35-49),1500.0,1,True
+CUST144,Female,59,Senior (50+),1500.0,1,True
+CUST673,Female,43,Middle Age (35-49),1500.0,1,True
+CUST580,Female,31,Adult (25-34),1500.0,1,True
+CUST942,Male,51,Senior (50+),1500.0,1,True
+CUST013,Male,22,Young Adult (18-24),1500.0,1,True
+CUST522,Male,46,Middle Age (35-49),1500.0,1,True
+CUST047,Female,40,Middle Age (35-49),1500.0,1,True
+CUST636,Female,21,Young Adult (18-24),1500.0,1,True
+CUST369,Male,23,Young Adult (18-24),1500.0,1,True
+CUST805,Female,30,Adult (25-34),1500.0,1,True
+CUST164,Female,47,Middle Age (35-49),1500.0,1,True
+CUST677,Female,19,Young Adult (18-24),1500.0,1,True
+CUST421,Female,37,Middle Age (35-49),1500.0,1,True
+CUST956,Male,30,Adult (25-34),1500.0,1,True
+CUST211,Male,42,Middle Age (35-49),1500.0,1,True
+CUST474,Female,26,Adult (25-34),1500.0,1,True
+CUST169,Male,18,Young Adult (18-24),1500.0,1,True
+CUST843,Male,21,Young Adult (18-24),1500.0,1,True
+CUST463,Female,54,Senior (50+),1500.0,1,True
+CUST239,Male,38,Middle Age (35-49),1500.0,1,True
+CUST280,Female,37,Middle Age (35-49),1500.0,1,True
+CUST313,Female,55,Senior (50+),1500.0,1,True
+CUST054,Female,38,Middle Age (35-49),1500.0,1,True
+CUST078,Female,47,Middle Age (35-49),1500.0,1,True
+CUST608,Female,55,Senior (50+),1500.0,1,True
+CUST385,Male,50,Senior (50+),1500.0,1,True
+CUST611,Male,51,Senior (50+),1500.0,1,True
+CUST647,Male,59,Senior (50+),1500.0,1,True
+CUST372,Female,24,Young Adult (18-24),1500.0,1,True
+CUST016,Male,19,Young Adult (18-24),1500.0,1,True
+CUST693,Male,41,Middle Age (35-49),1500.0,1,True
+CUST869,Male,37,Middle Age (35-49),1500.0,1,True
+CUST199,Male,45,Middle Age (35-49),1500.0,1,True
+CUST507,Female,37,Middle Age (35-49),1500.0,1,True
+CUST215,Male,58,Senior (50+),1500.0,1,True
+CUST506,Male,34,Adult (25-34),1500.0,1,True
+CUST213,Male,27,Adult (25-34),1500.0,1,True
+CUST356,Male,50,Senior (50+),1500.0,1,True
+CUST859,Female,56,Senior (50+),1500.0,1,True
+CUST614,Female,39,Middle Age (35-49),1200.0,1,True
+CUST107,Female,21,Young Adult (18-24),1200.0,1,True
+CUST943,Female,57,Senior (50+),1200.0,1,True
+CUST165,Female,60,Senior (50+),1200.0,1,True
+CUST559,Female,40,Middle Age (35-49),1200.0,1,True
+CUST067,Female,48,Middle Age (35-49),1200.0,1,True
+CUST597,Male,22,Young Adult (18-24),1200.0,1,True
+CUST587,Female,40,Middle Age (35-49),1200.0,1,True
+CUST099,Female,50,Senior (50+),1200.0,1,True
+CUST648,Male,53,Senior (50+),1200.0,1,True
+CUST669,Male,24,Young Adult (18-24),1200.0,1,True
+CUST361,Female,34,Adult (25-34),1200.0,1,True
+CUST046,Female,20,Young Adult (18-24),1200.0,1,True
+CUST333,Female,54,Senior (50+),1200.0,1,True
+CUST332,Male,58,Senior (50+),1200.0,1,True
+CUST424,Male,57,Senior (50+),1200.0,1,True
+CUST437,Female,35,Middle Age (35-49),1200.0,1,True
+CUST839,Female,20,Young Adult (18-24),1200.0,1,True
+CUST663,Male,23,Young Adult (18-24),1200.0,1,True
+CUST524,Male,46,Middle Age (35-49),1200.0,1,True
+CUST908,Male,46,Middle Age (35-49),1200.0,1,True
+CUST181,Male,19,Young Adult (18-24),1200.0,1,True
+CUST553,Male,24,Young Adult (18-24),1200.0,1,True
+CUST405,Female,25,Adult (25-34),1200.0,1,True
+CUST142,Male,35,Middle Age (35-49),1200.0,1,True
+CUST757,Female,43,Middle Age (35-49),1200.0,1,True
+CUST928,Female,35,Middle Age (35-49),1200.0,1,True
+CUST756,Female,62,Senior (50+),1200.0,1,True
+CUST368,Female,56,Senior (50+),1200.0,1,True
+CUST716,Female,60,Senior (50+),1200.0,1,True
+CUST828,Female,33,Adult (25-34),1200.0,1,True
+CUST296,Female,22,Young Adult (18-24),1200.0,1,True
+CUST320,Female,28,Adult (25-34),1200.0,1,True
+CUST340,Female,36,Middle Age (35-49),1200.0,1,True
+CUST292,Male,20,Young Adult (18-24),1200.0,1,True
+CUST441,Male,57,Senior (50+),1200.0,1,True
+CUST729,Male,29,Adult (25-34),1200.0,1,True
+CUST308,Female,34,Adult (25-34),1200.0,1,True
+CUST726,Male,47,Middle Age (35-49),1200.0,1,True
+CUST058,Male,18,Young Adult (18-24),1200.0,1,True
+CUST031,Male,44,Middle Age (35-49),1200.0,1,True
+CUST481,Female,43,Middle Age (35-49),1200.0,1,True
+CUST431,Male,63,Senior (50+),1200.0,1,True
+CUST298,Male,27,Adult (25-34),1200.0,1,True
+CUST682,Male,46,Middle Age (35-49),1200.0,1,True
+CUST800,Male,32,Adult (25-34),1200.0,1,True
+CUST459,Male,28,Adult (25-34),1200.0,1,True
+CUST484,Female,19,Young Adult (18-24),1200.0,1,True
+CUST479,Male,52,Senior (50+),1200.0,1,True
+CUST202,Female,34,Adult (25-34),1200.0,1,True
+CUST462,Male,63,Senior (50+),1200.0,1,True
+CUST482,Female,28,Adult (25-34),1200.0,1,True
+CUST847,Female,18,Young Adult (18-24),1200.0,1,True
+CUST862,Male,28,Adult (25-34),1200.0,1,True
+CUST990,Female,58,Senior (50+),1000.0,1,True
+CUST161,Male,64,Senior (50+),1000.0,1,True
+CUST104,Female,34,Adult (25-34),1000.0,1,True
+CUST662,Male,48,Middle Age (35-49),1000.0,1,True
+CUST418,Female,60,Senior (50+),1000.0,1,True
+CUST393,Female,22,Young Adult (18-24),1000.0,1,True
+CUST404,Male,46,Middle Age (35-49),1000.0,1,True
+CUST137,Male,46,Middle Age (35-49),1000.0,1,True
+CUST153,Male,63,Senior (50+),1000.0,1,True
+CUST621,Female,40,Middle Age (35-49),1000.0,1,True
+CUST002,Female,26,Adult (25-34),1000.0,1,True
+CUST275,Male,43,Middle Age (35-49),1000.0,1,True
+CUST274,Female,23,Young Adult (18-24),1000.0,1,True
+CUST352,Male,57,Senior (50+),1000.0,1,True
+CUST779,Female,56,Senior (50+),1000.0,1,True
+CUST683,Male,38,Middle Age (35-49),1000.0,1,True
+CUST684,Female,28,Adult (25-34),1000.0,1,True
+CUST461,Female,18,Young Adult (18-24),1000.0,1,True
+CUST237,Female,50,Senior (50+),1000.0,1,True
+CUST235,Female,23,Young Adult (18-24),1000.0,1,True
+CUST816,Male,47,Middle Age (35-49),1000.0,1,True
+CUST732,Male,61,Senior (50+),1000.0,1,True
+CUST880,Male,22,Young Adult (18-24),1000.0,1,True
+CUST453,Female,26,Adult (25-34),1000.0,1,True
+CUST117,Male,19,Young Adult (18-24),1000.0,1,True
+CUST395,Male,50,Senior (50+),1000.0,1,True
+CUST346,Male,59,Senior (50+),1000.0,1,True
+CUST297,Female,40,Middle Age (35-49),1000.0,1,True
+CUST299,Male,61,Senior (50+),1000.0,1,True
+CUST709,Female,19,Young Adult (18-24),1000.0,1,True
+CUST534,Male,45,Middle Age (35-49),1000.0,1,True
+CUST432,Female,60,Senior (50+),1000.0,1,True
+CUST470,Female,57,Senior (50+),1000.0,1,True
+CUST994,Female,51,Senior (50+),1000.0,1,True
+CUST986,Female,49,Middle Age (35-49),1000.0,1,True
+CUST256,Male,23,Young Adult (18-24),1000.0,1,True
+CUST850,Female,26,Adult (25-34),1000.0,1,True
+CUST853,Male,21,Young Adult (18-24),1000.0,1,True
+CUST203,Male,56,Senior (50+),1000.0,1,True
+CUST382,Female,53,Senior (50+),1000.0,1,True
+CUST026,Female,28,Adult (25-34),1000.0,1,True
+CUST660,Female,38,Middle Age (35-49),1000.0,1,True
+CUST966,Male,60,Senior (50+),1000.0,1,True
+CUST049,Female,54,Senior (50+),1000.0,1,True
+CUST600,Female,59,Senior (50+),1000.0,1,True
+CUST605,Male,37,Middle Age (35-49),1000.0,1,True
+CUST097,Female,51,Senior (50+),1000.0,1,True
+CUST094,Female,47,Middle Age (35-49),1000.0,1,True
+CUST589,Female,36,Middle Age (35-49),1000.0,1,True
+CUST036,Male,52,Senior (50+),900.0,1,True
+CUST035,Female,58,Senior (50+),900.0,1,True
+CUST590,Male,36,Middle Age (35-49),900.0,1,True
+CUST042,Male,22,Young Adult (18-24),900.0,1,True
+CUST030,Female,39,Middle Age (35-49),900.0,1,True
+CUST020,Male,22,Young Adult (18-24),900.0,1,True
+CUST491,Female,60,Senior (50+),900.0,1,True
+CUST171,Female,52,Senior (50+),900.0,1,True
+CUST515,Female,49,Middle Age (35-49),900.0,1,True
+CUST488,Female,51,Senior (50+),900.0,1,True
+CUST509,Female,37,Middle Age (35-49),900.0,1,True
+CUST708,Female,43,Middle Age (35-49),900.0,1,True
+CUST472,Female,38,Middle Age (35-49),900.0,1,True
+CUST457,Female,58,Senior (50+),900.0,1,True
+CUST243,Female,47,Middle Age (35-49),900.0,1,True
+CUST582,Male,35,Middle Age (35-49),900.0,1,True
+CUST987,Female,30,Adult (25-34),900.0,1,True
+CUST056,Female,26,Adult (25-34),900.0,1,True
+CUST969,Female,40,Middle Age (35-49),900.0,1,True
+CUST968,Female,48,Middle Age (35-49),900.0,1,True
+CUST923,Male,32,Adult (25-34),900.0,1,True
+CUST782,Male,59,Senior (50+),900.0,1,True
+CUST196,Female,32,Adult (25-34),900.0,1,True
+CUST180,Male,41,Middle Age (35-49),900.0,1,True
+CUST409,Female,21,Young Adult (18-24),900.0,1,True
+CUST417,Male,43,Middle Age (35-49),900.0,1,True
+CUST788,Female,52,Senior (50+),900.0,1,True
+CUST154,Male,51,Senior (50+),900.0,1,True
+CUST635,Female,63,Senior (50+),900.0,1,True
+CUST954,Female,50,Senior (50+),900.0,1,True
+CUST950,Male,36,Middle Age (35-49),900.0,1,True
+CUST964,Male,24,Young Adult (18-24),900.0,1,True
+CUST048,Male,54,Senior (50+),900.0,1,True
+CUST624,Female,34,Adult (25-34),900.0,1,True
+CUST435,Female,30,Adult (25-34),900.0,1,True
+CUST430,Female,43,Middle Age (35-49),900.0,1,True
+CUST248,Male,26,Adult (25-34),900.0,1,True
+CUST891,Male,41,Middle Age (35-49),900.0,1,True
+CUST540,Female,46,Middle Age (35-49),900.0,1,True
+CUST690,Female,52,Senior (50+),900.0,1,True
+CUST827,Male,61,Senior (50+),900.0,1,True
+CUST198,Female,54,Senior (50+),900.0,1,True
+CUST678,Female,60,Senior (50+),900.0,1,True
+CUST680,Female,53,Senior (50+),900.0,1,True
+CUST886,Male,37,Middle Age (35-49),900.0,1,True
+CUST727,Male,55,Senior (50+),900.0,1,True
+CUST722,Male,20,Young Adult (18-24),900.0,1,True
+CUST806,Female,35,Middle Age (35-49),900.0,1,True
+CUST323,Female,29,Adult (25-34),900.0,1,True
+CUST265,Male,55,Senior (50+),900.0,1,True
+CUST264,Male,47,Middle Age (35-49),900.0,1,True
+CUST295,Female,27,Adult (25-34),900.0,1,True
+CUST550,Male,40,Middle Age (35-49),900.0,1,True
+CUST567,Female,25,Adult (25-34),900.0,1,True
+CUST334,Male,31,Adult (25-34),900.0,1,True
+CUST551,Male,45,Middle Age (35-49),900.0,1,True
+CUST183,Female,43,Middle Age (35-49),900.0,1,True
+CUST133,Male,20,Young Adult (18-24),900.0,1,True
+CUST911,Male,42,Middle Age (35-49),900.0,1,True
+CUST110,Male,27,Adult (25-34),900.0,1,True
+CUST407,Female,46,Middle Age (35-49),900.0,1,True
+CUST766,Male,38,Middle Age (35-49),900.0,1,True
+CUST610,Female,26,Adult (25-34),600.0,1,False
+CUST594,Female,19,Young Adult (18-24),600.0,1,False
+CUST096,Female,44,Middle Age (35-49),600.0,1,False
+CUST101,Male,32,Adult (25-34),600.0,1,False
+CUST386,Female,54,Senior (50+),600.0,1,False
+CUST380,Male,56,Senior (50+),600.0,1,False
+CUST009,Male,63,Senior (50+),600.0,1,False
+CUST398,Female,48,Middle Age (35-49),600.0,1,False
+CUST403,Male,32,Adult (25-34),600.0,1,False
+CUST637,Male,43,Middle Age (35-49),600.0,1,False
+CUST402,Female,41,Middle Age (35-49),600.0,1,False
+CUST649,Female,58,Senior (50+),600.0,1,False
+CUST392,Male,27,Adult (25-34),600.0,1,False
+CUST373,Female,25,Adult (25-34),600.0,1,False
+CUST464,Male,38,Middle Age (35-49),600.0,1,False
+CUST976,Female,48,Middle Age (35-49),600.0,1,False
+CUST842,Female,47,Middle Age (35-49),600.0,1,False
+CUST899,Male,26,Adult (25-34),600.0,1,False
+CUST838,Male,47,Middle Age (35-49),600.0,1,False
+CUST496,Male,23,Young Adult (18-24),600.0,1,False
+CUST221,Male,39,Middle Age (35-49),600.0,1,False
+CUST443,Male,29,Adult (25-34),600.0,1,False
+CUST508,Male,58,Senior (50+),600.0,1,False
+CUST543,Male,49,Middle Age (35-49),600.0,1,False
+CUST291,Male,60,Senior (50+),600.0,1,False
+CUST290,Female,30,Adult (25-34),600.0,1,False
+CUST131,Female,21,Young Adult (18-24),600.0,1,False
+CUST129,Female,21,Young Adult (18-24),600.0,1,False
+CUST302,Male,57,Senior (50+),600.0,1,False
+CUST136,Male,44,Middle Age (35-49),600.0,1,False
+CUST158,Female,44,Middle Age (35-49),600.0,1,False
+CUST233,Female,51,Senior (50+),600.0,1,False
+CUST702,Female,60,Senior (50+),600.0,1,False
+CUST440,Male,64,Senior (50+),600.0,1,False
+CUST348,Female,35,Middle Age (35-49),600.0,1,False
+CUST612,Female,61,Senior (50+),500.0,1,False
+CUST091,Female,55,Senior (50+),500.0,1,False
+CUST088,Male,56,Senior (50+),500.0,1,False
+CUST384,Male,55,Senior (50+),500.0,1,False
+CUST028,Female,43,Middle Age (35-49),500.0,1,False
+CUST655,Female,55,Senior (50+),500.0,1,False
+CUST364,Female,19,Young Adult (18-24),500.0,1,False
+CUST220,Male,64,Senior (50+),500.0,1,False
+CUST254,Male,41,Middle Age (35-49),500.0,1,False
+CUST707,Female,26,Adult (25-34),500.0,1,False
+CUST984,Male,56,Senior (50+),500.0,1,False
+CUST845,Male,54,Senior (50+),500.0,1,False
+CUST814,Female,59,Senior (50+),500.0,1,False
+CUST279,Male,50,Senior (50+),500.0,1,False
+CUST283,Female,18,Young Adult (18-24),500.0,1,False
+CUST714,Female,18,Young Adult (18-24),500.0,1,False
+CUST717,Male,57,Senior (50+),500.0,1,False
+CUST721,Female,52,Senior (50+),500.0,1,False
+CUST394,Female,27,Adult (25-34),500.0,1,False
+CUST867,Male,21,Young Adult (18-24),500.0,1,False
+CUST864,Female,51,Senior (50+),500.0,1,False
+CUST697,Male,53,Senior (50+),500.0,1,False
+CUST541,Male,56,Senior (50+),500.0,1,False
+CUST883,Male,40,Middle Age (35-49),500.0,1,False
+CUST537,Female,21,Young Adult (18-24),500.0,1,False
+CUST539,Male,25,Adult (25-34),500.0,1,False
+CUST238,Female,39,Middle Age (35-49),500.0,1,False
+CUST818,Male,30,Adult (25-34),500.0,1,False
+CUST322,Male,51,Senior (50+),500.0,1,False
+CUST319,Male,31,Adult (25-34),500.0,1,False
+CUST337,Male,38,Middle Age (35-49),500.0,1,False
+CUST353,Male,31,Adult (25-34),500.0,1,False
+CUST781,Male,35,Middle Age (35-49),500.0,1,False
+CUST355,Female,55,Senior (50+),500.0,1,False
+CUST105,Female,22,Young Adult (18-24),500.0,1,False
+CUST130,Female,57,Senior (50+),500.0,1,False
+CUST128,Male,25,Adult (25-34),500.0,1,False
+CUST667,Female,29,Adult (25-34),500.0,1,False
+CUST570,Male,49,Middle Age (35-49),500.0,1,False
+CUST531,Male,31,Adult (25-34),500.0,1,False
+CUST904,Male,28,Adult (25-34),500.0,1,False
+CUST914,Female,59,Senior (50+),500.0,1,False
+CUST784,Female,34,Adult (25-34),500.0,1,False
+CUST408,Female,64,Senior (50+),500.0,1,False
+CUST638,Male,46,Middle Age (35-49),500.0,1,False
+CUST760,Male,27,Adult (25-34),500.0,1,False
+CUST761,Female,33,Adult (25-34),500.0,1,False
+CUST937,Female,62,Senior (50+),500.0,1,False
+CUST021,Female,50,Senior (50+),500.0,1,False
+CUST934,Male,30,Adult (25-34),500.0,1,False
+CUST004,Male,37,Middle Age (35-49),500.0,1,False
+CUST925,Male,25,Adult (25-34),300.0,1,False
+CUST905,Male,58,Senior (50+),300.0,1,False
+CUST909,Male,26,Adult (25-34),300.0,1,False
+CUST147,Male,23,Young Adult (18-24),300.0,1,False
+CUST602,Female,20,Young Adult (18-24),300.0,1,False
+CUST698,Female,64,Senior (50+),300.0,1,False
+CUST568,Female,51,Senior (50+),300.0,1,False
+CUST555,Male,25,Adult (25-34),300.0,1,False
+CUST174,Female,39,Middle Age (35-49),300.0,1,False
+CUST523,Female,62,Senior (50+),300.0,1,False
+CUST179,Male,31,Adult (25-34),300.0,1,False
+CUST687,Female,53,Senior (50+),300.0,1,False
+CUST674,Female,38,Middle Age (35-49),300.0,1,False
+CUST270,Male,43,Middle Age (35-49),300.0,1,False
+CUST725,Male,61,Senior (50+),300.0,1,False
+CUST741,Male,48,Middle Age (35-49),300.0,1,False
+CUST401,Female,62,Senior (50+),300.0,1,False
+CUST365,Male,31,Adult (25-34),300.0,1,False
+CUST358,Female,32,Adult (25-34),300.0,1,False
+CUST794,Female,60,Senior (50+),300.0,1,False
+CUST795,Male,57,Senior (50+),300.0,1,False
+CUST783,Female,56,Senior (50+),300.0,1,False
+CUST596,Female,64,Senior (50+),300.0,1,False
+CUST641,Female,40,Middle Age (35-49),300.0,1,False
+CUST079,Male,34,Adult (25-34),300.0,1,False
+CUST052,Female,36,Middle Age (35-49),300.0,1,False
+CUST043,Female,48,Middle Age (35-49),300.0,1,False
+CUST070,Female,43,Middle Age (35-49),300.0,1,False
+CUST068,Male,25,Adult (25-34),300.0,1,False
+CUST939,Female,46,Middle Age (35-49),300.0,1,False
+CUST947,Male,50,Senior (50+),300.0,1,False
+CUST168,Male,53,Senior (50+),300.0,1,False
+CUST240,Female,23,Young Adult (18-24),300.0,1,False
+CUST252,Male,54,Senior (50+),300.0,1,False
+CUST625,Male,31,Adult (25-34),300.0,1,False
+CUST445,Female,53,Senior (50+),300.0,1,False
+CUST821,Male,49,Middle Age (35-49),300.0,1,False
+CUST826,Female,46,Middle Age (35-49),300.0,1,False
+CUST514,Female,18,Young Adult (18-24),300.0,1,False
+CUST881,Male,22,Young Adult (18-24),300.0,1,False
+CUST868,Female,25,Adult (25-34),300.0,1,False
+CUST865,Female,42,Middle Age (35-49),300.0,1,False
+CUST852,Female,41,Middle Age (35-49),300.0,1,False
+CUST378,Male,50,Senior (50+),300.0,1,False
+CUST983,Female,29,Adult (25-34),300.0,1,False
+CUST024,Female,49,Middle Age (35-49),300.0,1,False
+CUST010,Female,52,Senior (50+),200.0,1,False
+CUST132,Male,42,Middle Age (35-49),200.0,1,False
+CUST121,Female,28,Adult (25-34),200.0,1,False
+CUST961,Male,53,Senior (50+),200.0,1,False
+CUST965,Male,22,Young Adult (18-24),200.0,1,False
+CUST903,Female,51,Senior (50+),200.0,1,False
+CUST146,Male,38,Middle Age (35-49),200.0,1,False
+CUST917,Female,57,Senior (50+),200.0,1,False
+CUST975,Female,56,Senior (50+),200.0,1,False
+CUST936,Male,57,Senior (50+),200.0,1,False
+CUST330,Female,25,Adult (25-34),200.0,1,False
+CUST377,Female,46,Middle Age (35-49),200.0,1,False
+CUST075,Male,61,Senior (50+),200.0,1,False
+CUST584,Female,27,Adult (25-34),200.0,1,False
+CUST038,Male,38,Middle Age (35-49),200.0,1,False
+CUST971,Female,27,Adult (25-34),200.0,1,False
+CUST604,Female,29,Adult (25-34),200.0,1,False
+CUST833,Male,42,Middle Age (35-49),200.0,1,False
+CUST740,Female,25,Adult (25-34),200.0,1,False
+CUST186,Male,20,Young Adult (18-24),200.0,1,False
+CUST449,Male,25,Adult (25-34),200.0,1,False
+CUST197,Female,42,Middle Age (35-49),200.0,1,False
+CUST569,Male,52,Senior (50+),200.0,1,False
+CUST723,Female,54,Senior (50+),200.0,1,False
+CUST860,Male,63,Senior (50+),200.0,1,False
+CUST696,Female,50,Senior (50+),200.0,1,False
+CUST210,Male,37,Middle Age (35-49),200.0,1,False
+CUST686,Female,28,Adult (25-34),200.0,1,False
+CUST546,Female,36,Middle Age (35-49),200.0,1,False
+CUST835,Male,37,Middle Age (35-49),200.0,1,False
+CUST801,Male,21,Young Adult (18-24),200.0,1,False
+CUST765,Male,43,Middle Age (35-49),200.0,1,False
+CUST284,Male,43,Middle Age (35-49),200.0,1,False
+CUST300,Female,19,Young Adult (18-24),200.0,1,False
+CUST411,Male,62,Senior (50+),200.0,1,False
+CUST354,Female,49,Middle Age (35-49),200.0,1,False
+CUST785,Female,31,Adult (25-34),200.0,1,False
+CUST400,Male,53,Senior (50+),200.0,1,False
+CUST930,Male,54,Senior (50+),200.0,1,False
+CUST138,Male,49,Middle Age (35-49),200.0,1,False
+CUST820,Male,49,Middle Age (35-49),200.0,1,False
+CUST159,Male,26,Adult (25-34),200.0,1,False
+CUST184,Male,31,Adult (25-34),200.0,1,False
+CUST194,Male,55,Senior (50+),200.0,1,False
+CUST510,Female,39,Middle Age (35-49),200.0,1,False
+CUST494,Female,42,Middle Age (35-49),200.0,1,False
+CUST217,Female,35,Middle Age (35-49),200.0,1,False
+CUST208,Female,34,Adult (25-34),200.0,1,False
+CUST938,Male,49,Middle Age (35-49),200.0,1,False
+CUST061,Male,21,Young Adult (18-24),200.0,1,False
+CUST639,Female,62,Senior (50+),200.0,1,False
+CUST209,Female,30,Adult (25-34),200.0,1,False
+CUST341,Male,31,Adult (25-34),200.0,1,False
+CUST082,Female,32,Adult (25-34),200.0,1,False
+CUST628,Female,19,Young Adult (18-24),200.0,1,False
+CUST433,Male,29,Adult (25-34),200.0,1,False
+CUST282,Female,64,Senior (50+),200.0,1,False
+CUST817,Male,30,Adult (25-34),200.0,1,False
+CUST807,Female,50,Senior (50+),200.0,1,False
+CUST259,Female,45,Middle Age (35-49),200.0,1,False
+CUST428,Female,40,Middle Age (35-49),200.0,1,False
+CUST251,Female,57,Senior (50+),200.0,1,False
+CUST001,Male,34,Adult (25-34),150.0,1,False
+CUST651,Male,51,Senior (50+),150.0,1,False
+CUST912,Male,51,Senior (50+),150.0,1,False
+CUST910,Female,20,Young Adult (18-24),150.0,1,False
+CUST666,Male,51,Senior (50+),150.0,1,False
+CUST668,Female,62,Senior (50+),150.0,1,False
+CUST119,Female,60,Senior (50+),150.0,1,False
+CUST999,Female,36,Middle Age (35-49),150.0,1,False
+CUST777,Male,48,Middle Age (35-49),150.0,1,False
+CUST336,Female,52,Senior (50+),150.0,1,False
+CUST467,Female,53,Senior (50+),150.0,1,False
+CUST695,Female,22,Young Adult (18-24),150.0,1,False
+CUST200,Male,27,Adult (25-34),150.0,1,False
+CUST529,Female,35,Middle Age (35-49),150.0,1,False
+CUST538,Male,18,Young Adult (18-24),150.0,1,False
+CUST554,Female,46,Middle Age (35-49),150.0,1,False
+CUST163,Female,64,Senior (50+),150.0,1,False
+CUST167,Female,43,Middle Age (35-49),150.0,1,False
+CUST671,Male,62,Senior (50+),150.0,1,False
+CUST576,Female,33,Adult (25-34),150.0,1,False
+CUST748,Male,25,Adult (25-34),150.0,1,False
+CUST822,Female,52,Senior (50+),150.0,1,False
+CUST728,Male,51,Senior (50+),150.0,1,False
+CUST724,Male,61,Senior (50+),150.0,1,False
+CUST324,Female,52,Senior (50+),150.0,1,False
+CUST813,Male,52,Senior (50+),150.0,1,False
+CUST623,Male,34,Adult (25-34),150.0,1,False
+CUST830,Female,64,Senior (50+),150.0,1,False
+CUST231,Female,23,Young Adult (18-24),150.0,1,False
+CUST504,Female,38,Middle Age (35-49),150.0,1,False
+CUST502,Male,43,Middle Age (35-49),150.0,1,False
+CUST490,Male,34,Adult (25-34),150.0,1,False
+CUST471,Male,32,Adult (25-34),150.0,1,False
+CUST426,Male,23,Young Adult (18-24),150.0,1,False
+CUST844,Male,35,Middle Age (35-49),150.0,1,False
+CUST465,Female,43,Middle Age (35-49),150.0,1,False
+CUST327,Male,57,Senior (50+),150.0,1,False
+CUST085,Male,31,Adult (25-34),150.0,1,False
+CUST993,Female,48,Middle Age (35-49),150.0,1,False
+CUST060,Male,30,Adult (25-34),150.0,1,False
+CUST034,Female,51,Senior (50+),150.0,1,False
+CUST978,Female,53,Senior (50+),150.0,1,False
+CUST055,Male,31,Adult (25-34),120.0,1,False
+CUST023,Female,35,Middle Age (35-49),120.0,1,False
+CUST1000,Male,47,Middle Age (35-49),120.0,1,False
+CUST092,Female,51,Senior (50+),120.0,1,False
+CUST640,Female,51,Senior (50+),120.0,1,False
+CUST039,Male,23,Young Adult (18-24),120.0,1,False
+CUST532,Female,64,Senior (50+),120.0,1,False
+CUST436,Female,57,Senior (50+),120.0,1,False
+CUST425,Female,55,Senior (50+),120.0,1,False
+CUST477,Male,43,Middle Age (35-49),120.0,1,False
+CUST856,Male,54,Senior (50+),120.0,1,False
+CUST536,Female,55,Senior (50+),120.0,1,False
+CUST699,Female,37,Middle Age (35-49),120.0,1,False
+CUST870,Female,46,Middle Age (35-49),120.0,1,False
+CUST885,Female,52,Senior (50+),120.0,1,False
+CUST530,Female,18,Young Adult (18-24),120.0,1,False
+CUST173,Male,64,Senior (50+),120.0,1,False
+CUST288,Male,28,Adult (25-34),120.0,1,False
+CUST824,Male,63,Senior (50+),120.0,1,False
+CUST222,Male,51,Senior (50+),120.0,1,False
+CUST497,Male,41,Middle Age (35-49),120.0,1,False
+CUST633,Male,39,Middle Age (35-49),120.0,1,False
+CUST645,Female,35,Middle Age (35-49),120.0,1,False
+CUST796,Male,43,Middle Age (35-49),120.0,1,False
+CUST895,Female,55,Senior (50+),120.0,1,False
+CUST931,Male,30,Adult (25-34),120.0,1,False
+CUST122,Male,64,Senior (50+),120.0,1,False
+CUST957,Female,60,Senior (50+),120.0,1,False
+CUST014,Male,64,Senior (50+),120.0,1,False
+CUST598,Male,37,Middle Age (35-49),120.0,1,False
+CUST769,Female,31,Adult (25-34),120.0,1,False
+CUST312,Male,41,Middle Age (35-49),120.0,1,False
+CUST314,Male,52,Senior (50+),120.0,1,False
+CUST301,Male,30,Adult (25-34),120.0,1,False
+CUST262,Female,32,Adult (25-34),120.0,1,False
+CUST335,Female,47,Middle Age (35-49),120.0,1,False
+CUST271,Female,62,Senior (50+),120.0,1,False
+CUST150,Female,58,Senior (50+),120.0,1,False
+CUST578,Female,54,Senior (50+),120.0,1,False
+CUST521,Female,47,Middle Age (35-49),120.0,1,False
+CUST519,Female,36,Middle Age (35-49),120.0,1,False
+CUST182,Male,62,Senior (50+),120.0,1,False
+CUST876,Male,43,Middle Age (35-49),120.0,1,False
+CUST064,Male,49,Middle Age (35-49),100.0,1,False
+CUST083,Male,54,Senior (50+),100.0,1,False
+CUST053,Male,34,Adult (25-34),100.0,1,False
+CUST098,Female,55,Senior (50+),100.0,1,False
+CUST998,Female,23,Young Adult (18-24),100.0,1,False
+CUST017,Female,27,Adult (25-34),100.0,1,False
+CUST328,Male,39,Middle Age (35-49),100.0,1,False
+CUST329,Female,46,Middle Age (35-49),100.0,1,False
+CUST062,Male,18,Young Adult (18-24),100.0,1,False
+CUST991,Female,34,Adult (25-34),100.0,1,False
+CUST972,Male,49,Middle Age (35-49),100.0,1,False
+CUST033,Female,50,Senior (50+),100.0,1,False
+CUST583,Female,24,Young Adult (18-24),100.0,1,False
+CUST077,Female,47,Middle Age (35-49),100.0,1,False
+CUST076,Female,22,Young Adult (18-24),100.0,1,False
+CUST071,Female,51,Senior (50+),100.0,1,False
+CUST087,Female,28,Adult (25-34),100.0,1,False
+CUST819,Female,35,Middle Age (35-49),100.0,1,False
+CUST225,Female,57,Senior (50+),100.0,1,False
+CUST227,Male,36,Middle Age (35-49),100.0,1,False
+CUST492,Male,61,Senior (50+),100.0,1,False
+CUST500,Female,60,Senior (50+),100.0,1,False
+CUST703,Male,34,Adult (25-34),100.0,1,False
+CUST706,Male,51,Senior (50+),100.0,1,False
+CUST513,Male,24,Young Adult (18-24),100.0,1,False
+CUST516,Male,30,Adult (25-34),100.0,1,False
+CUST466,Male,63,Senior (50+),100.0,1,False
+CUST455,Male,31,Adult (25-34),100.0,1,False
+CUST278,Female,37,Middle Age (35-49),100.0,1,False
+CUST287,Male,54,Senior (50+),100.0,1,False
+CUST810,Male,59,Senior (50+),100.0,1,False
+CUST809,Female,62,Senior (50+),100.0,1,False
+CUST216,Male,62,Senior (50+),100.0,1,False
+CUST517,Female,47,Middle Age (35-49),100.0,1,False
+CUST498,Female,50,Senior (50+),100.0,1,False
+CUST630,Male,42,Middle Age (35-49),100.0,1,False
+CUST244,Male,28,Adult (25-34),100.0,1,False
+CUST831,Male,27,Adult (25-34),100.0,1,False
+CUST511,Male,45,Middle Age (35-49),100.0,1,False
+CUST458,Female,39,Middle Age (35-49),100.0,1,False
+CUST632,Female,26,Adult (25-34),100.0,1,False
+CUST615,Female,61,Senior (50+),100.0,1,False
+CUST616,Male,41,Middle Age (35-49),100.0,1,False
+CUST642,Female,54,Senior (50+),100.0,1,False
+CUST520,Female,49,Middle Age (35-49),100.0,1,False
+CUST175,Female,31,Adult (25-34),100.0,1,False
+CUST176,Female,43,Middle Age (35-49),100.0,1,False
+CUST177,Male,45,Middle Age (35-49),100.0,1,False
+CUST873,Female,27,Adult (25-34),100.0,1,False
+CUST888,Female,52,Senior (50+),100.0,1,False
+CUST192,Male,62,Senior (50+),100.0,1,False
+CUST187,Female,64,Senior (50+),100.0,1,False
+CUST858,Male,23,Young Adult (18-24),100.0,1,False
+CUST841,Male,31,Adult (25-34),100.0,1,False
+CUST689,Male,57,Senior (50+),100.0,1,False
+CUST688,Male,56,Senior (50+),100.0,1,False
+CUST692,Female,64,Senior (50+),100.0,1,False
+CUST549,Female,50,Senior (50+),100.0,1,False
+CUST526,Male,33,Adult (25-34),100.0,1,False
+CUST887,Male,59,Senior (50+),100.0,1,False
+CUST311,Female,32,Adult (25-34),100.0,1,False
+CUST277,Male,36,Middle Age (35-49),100.0,1,False
+CUST276,Female,21,Young Adult (18-24),100.0,1,False
+CUST272,Female,61,Senior (50+),100.0,1,False
+CUST736,Male,29,Adult (25-34),100.0,1,False
+CUST738,Male,41,Middle Age (35-49),100.0,1,False
+CUST715,Female,42,Middle Age (35-49),100.0,1,False
+CUST799,Male,56,Senior (50+),100.0,1,False
+CUST442,Female,60,Senior (50+),100.0,1,False
+CUST160,Female,43,Middle Age (35-49),100.0,1,False
+CUST114,Female,22,Young Adult (18-24),100.0,1,False
+CUST338,Male,54,Senior (50+),100.0,1,False
+CUST156,Female,43,Middle Age (35-49),100.0,1,False
+CUST672,Female,34,Adult (25-34),100.0,1,False
+CUST564,Male,50,Senior (50+),100.0,1,False
+CUST575,Male,60,Senior (50+),100.0,1,False
+CUST752,Male,29,Adult (25-34),100.0,1,False
+CUST759,Male,49,Middle Age (35-49),100.0,1,False
+CUST758,Male,64,Senior (50+),100.0,1,False
+CUST360,Male,42,Middle Age (35-49),100.0,1,False
+CUST381,Female,44,Middle Age (35-49),100.0,1,False
+CUST366,Male,57,Senior (50+),100.0,1,False
+CUST823,Female,56,Senior (50+),100.0,1,False
+CUST754,Female,43,Middle Age (35-49),100.0,1,False
+CUST803,Male,39,Middle Age (35-49),100.0,1,False
+CUST390,Male,39,Middle Age (35-49),100.0,1,False
+CUST775,Female,46,Middle Age (35-49),100.0,1,False
+CUST786,Male,48,Middle Age (35-49),100.0,1,False
+CUST406,Female,22,Young Adult (18-24),100.0,1,False
+CUST410,Female,29,Adult (25-34),100.0,1,False
+CUST414,Male,48,Middle Age (35-49),100.0,1,False
+CUST745,Male,54,Senior (50+),100.0,1,False
+CUST924,Male,55,Senior (50+),100.0,1,False
+CUST932,Female,45,Middle Age (35-49),100.0,1,False
+CUST897,Female,64,Senior (50+),100.0,1,False
+CUST778,Female,47,Middle Age (35-49),100.0,1,False
+CUST652,Female,34,Adult (25-34),100.0,1,False
+CUST609,Female,47,Middle Age (35-49),100.0,1,False
+CUST661,Female,44,Middle Age (35-49),100.0,1,False
+CUST125,Male,48,Middle Age (35-49),100.0,1,False
+CUST591,Male,53,Senior (50+),100.0,1,False
+CUST599,Female,28,Adult (25-34),100.0,1,False
+CUST022,Male,18,Young Adult (18-24),100.0,1,False
+CUST619,Male,47,Middle Age (35-49),100.0,1,False
+CUST008,Male,30,Adult (25-34),100.0,1,False
+CUST951,Male,33,Adult (25-34),100.0,1,False
+CUST011,Male,23,Young Adult (18-24),100.0,1,False
+CUST005,Male,30,Adult (25-34),100.0,1,False
+CUST915,Female,26,Adult (25-34),90.0,1,False
+CUST913,Male,29,Adult (25-34),90.0,1,False
+CUST953,Male,45,Middle Age (35-49),90.0,1,False
+CUST982,Female,46,Middle Age (35-49),90.0,1,False
+CUST032,Male,30,Adult (25-34),90.0,1,False
+CUST126,Female,28,Adult (25-34),90.0,1,False
+CUST918,Female,42,Middle Age (35-49),90.0,1,False
+CUST704,Female,62,Senior (50+),90.0,1,False
+CUST691,Female,51,Senior (50+),90.0,1,False
+CUST746,Female,33,Adult (25-34),90.0,1,False
+CUST422,Female,28,Adult (25-34),90.0,1,False
+CUST444,Female,61,Senior (50+),90.0,1,False
+CUST557,Female,20,Young Adult (18-24),90.0,1,False
+CUST679,Female,18,Young Adult (18-24),90.0,1,False
+CUST535,Male,47,Middle Age (35-49),90.0,1,False
+CUST419,Female,44,Middle Age (35-49),90.0,1,False
+CUST331,Male,28,Adult (25-34),90.0,1,False
+CUST776,Male,35,Middle Age (35-49),90.0,1,False
+CUST351,Female,56,Senior (50+),90.0,1,False
+CUST190,Female,60,Senior (50+),90.0,1,False
+CUST218,Male,64,Senior (50+),90.0,1,False
+CUST219,Female,53,Senior (50+),90.0,1,False
+CUST898,Female,42,Middle Age (35-49),90.0,1,False
+CUST383,Female,46,Middle Age (35-49),90.0,1,False
+CUST293,Male,50,Senior (50+),90.0,1,False
+CUST829,Male,61,Senior (50+),90.0,1,False
+CUST861,Female,41,Middle Age (35-49),90.0,1,False
+CUST245,Male,47,Middle Age (35-49),90.0,1,False
+CUST086,Male,19,Young Adult (18-24),90.0,1,False
+CUST837,Male,18,Young Adult (18-24),90.0,1,False
+CUST631,Male,56,Senior (50+),90.0,1,False
+CUST613,Female,52,Senior (50+),90.0,1,False
+CUST646,Male,38,Middle Age (35-49),90.0,1,False
+CUST643,Female,28,Adult (25-34),90.0,1,False
+CUST073,Male,29,Adult (25-34),90.0,1,False
+CUST084,Female,38,Middle Age (35-49),90.0,1,False
+CUST656,Male,29,Adult (25-34),90.0,1,False
+CUST603,Female,40,Middle Age (35-49),90.0,1,False
+CUST997,Male,52,Senior (50+),90.0,1,False
+CUST229,Male,58,Senior (50+),90.0,1,False
+CUST303,Male,19,Young Adult (18-24),90.0,1,False
+CUST317,Male,22,Young Adult (18-24),90.0,1,False
+CUST267,Female,32,Adult (25-34),90.0,1,False
+CUST294,Female,23,Young Adult (18-24),90.0,1,False
+CUST718,Female,59,Senior (50+),75.0,1,False
+CUST469,Male,18,Young Adult (18-24),75.0,1,False
+CUST475,Male,26,Adult (25-34),75.0,1,False
+CUST552,Female,49,Middle Age (35-49),75.0,1,False
+CUST920,Female,28,Adult (25-34),75.0,1,False
+CUST977,Female,35,Middle Age (35-49),75.0,1,False
+CUST149,Male,22,Young Adult (18-24),75.0,1,False
+CUST988,Female,63,Senior (50+),75.0,1,False
+CUST980,Female,31,Adult (25-34),75.0,1,False
+CUST037,Female,18,Young Adult (18-24),75.0,1,False
+CUST145,Female,39,Middle Age (35-49),75.0,1,False
+CUST350,Male,25,Adult (25-34),75.0,1,False
+CUST797,Male,40,Middle Age (35-49),75.0,1,False
+CUST357,Female,40,Middle Age (35-49),75.0,1,False
+CUST326,Female,18,Young Adult (18-24),75.0,1,False
+CUST750,Female,35,Middle Age (35-49),75.0,1,False
+CUST755,Female,58,Senior (50+),75.0,1,False
+CUST768,Female,24,Young Adult (18-24),75.0,1,False
+CUST439,Male,50,Senior (50+),75.0,1,False
+CUST713,Male,34,Adult (25-34),75.0,1,False
+CUST921,Male,51,Senior (50+),75.0,1,False
+CUST108,Female,27,Adult (25-34),75.0,1,False
+CUST012,Male,35,Middle Age (35-49),75.0,1,False
+CUST413,Female,44,Middle Age (35-49),75.0,1,False
+CUST767,Male,39,Middle Age (35-49),75.0,1,False
+CUST812,Male,19,Young Adult (18-24),75.0,1,False
+CUST872,Female,63,Senior (50+),75.0,1,False
+CUST622,Female,49,Middle Age (35-49),75.0,1,False
+CUST607,Male,54,Senior (50+),75.0,1,False
+CUST929,Female,23,Young Adult (18-24),75.0,1,False
+CUST654,Male,42,Middle Age (35-49),75.0,1,False
+CUST620,Male,63,Senior (50+),75.0,1,False
+CUST644,Male,23,Young Adult (18-24),75.0,1,False
+CUST653,Male,54,Senior (50+),75.0,1,False
+CUST051,Male,27,Adult (25-34),75.0,1,False
+CUST948,Female,23,Young Adult (18-24),75.0,1,False
+CUST815,Female,51,Senior (50+),75.0,1,False
+CUST374,Female,59,Senior (50+),75.0,1,False
+CUST188,Male,40,Middle Age (35-49),75.0,1,False
+CUST241,Female,23,Young Adult (18-24),75.0,1,False
+CUST050,Female,27,Adult (25-34),75.0,1,False
+CUST069,Female,56,Senior (50+),75.0,1,False
+CUST848,Female,63,Senior (50+),75.0,1,False
+CUST719,Female,42,Middle Age (35-49),60.0,1,False
+CUST495,Male,24,Young Adult (18-24),60.0,1,False
+CUST563,Male,20,Young Adult (18-24),60.0,1,False
+CUST565,Female,45,Middle Age (35-49),60.0,1,False
+CUST581,Female,48,Middle Age (35-49),60.0,1,False
+CUST573,Male,49,Middle Age (35-49),60.0,1,False
+CUST548,Female,51,Senior (50+),60.0,1,False
+CUST528,Female,36,Middle Age (35-49),60.0,1,False
+CUST370,Male,23,Young Adult (18-24),60.0,1,False
+CUST247,Male,41,Middle Age (35-49),60.0,1,False
+CUST260,Male,28,Adult (25-34),60.0,1,False
+CUST992,Female,57,Senior (50+),60.0,1,False
+CUST289,Male,53,Senior (50+),60.0,1,False
+CUST834,Female,56,Senior (50+),60.0,1,False
+CUST478,Female,58,Senior (50+),60.0,1,False
+CUST501,Male,39,Middle Age (35-49),60.0,1,False
+CUST162,Male,39,Middle Age (35-49),60.0,1,False
+CUST701,Female,52,Senior (50+),60.0,1,False
+CUST900,Male,21,Young Adult (18-24),60.0,1,False
+CUST681,Female,43,Middle Age (35-49),60.0,1,False
+CUST123,Female,40,Middle Age (35-49),60.0,1,False
+CUST148,Male,18,Young Adult (18-24),60.0,1,False
+CUST448,Female,54,Senior (50+),60.0,1,False
+CUST456,Male,57,Senior (50+),60.0,1,False
+CUST499,Male,46,Middle Age (35-49),60.0,1,False
+CUST884,Female,26,Adult (25-34),60.0,1,False
+CUST415,Male,53,Senior (50+),60.0,1,False
+CUST399,Female,64,Senior (50+),60.0,1,False
+CUST981,Female,30,Adult (25-34),60.0,1,False
+CUST960,Male,59,Senior (50+),60.0,1,False
+CUST959,Female,42,Middle Age (35-49),60.0,1,False
+CUST962,Male,44,Middle Age (35-49),60.0,1,False
+CUST675,Female,45,Middle Age (35-49),60.0,1,False
+CUST593,Male,35,Middle Age (35-49),60.0,1,False
+CUST588,Male,38,Middle Age (35-49),60.0,1,False
+CUST095,Female,32,Adult (25-34),60.0,1,False
+CUST080,Female,64,Senior (50+),60.0,1,False
+CUST178,Male,40,Middle Age (35-49),60.0,1,False
+CUST871,Male,62,Senior (50+),60.0,1,False
+CUST214,Male,20,Young Adult (18-24),60.0,1,False
+CUST315,Male,47,Middle Age (35-49),60.0,1,False
+CUST228,Female,59,Senior (50+),60.0,1,False
+CUST263,Male,23,Young Adult (18-24),60.0,1,False
+CUST266,Female,19,Young Adult (18-24),60.0,1,False
+CUST304,Female,37,Middle Age (35-49),60.0,1,False
+CUST737,Female,33,Adult (25-34),50.0,1,False
+CUST763,Male,34,Adult (25-34),50.0,1,False
+CUST762,Female,24,Young Adult (18-24),50.0,1,False
+CUST560,Female,25,Adult (25-34),50.0,1,False
+CUST556,Female,18,Young Adult (18-24),50.0,1,False
+CUST574,Female,63,Senior (50+),50.0,1,False
+CUST525,Female,47,Middle Age (35-49),50.0,1,False
+CUST542,Female,20,Young Adult (18-24),50.0,1,False
+CUST527,Male,57,Senior (50+),50.0,1,False
+CUST545,Male,27,Adult (25-34),50.0,1,False
+CUST571,Female,41,Middle Age (35-49),50.0,1,False
+CUST770,Male,32,Adult (25-34),50.0,1,False
+CUST473,Male,64,Senior (50+),50.0,1,False
+CUST493,Male,41,Middle Age (35-49),50.0,1,False
+CUST505,Male,24,Young Adult (18-24),50.0,1,False
+CUST359,Male,50,Senior (50+),50.0,1,False
+CUST771,Male,24,Young Adult (18-24),50.0,1,False
+CUST751,Female,42,Middle Age (35-49),50.0,1,False
+CUST460,Male,40,Middle Age (35-49),50.0,1,False
+CUST151,Male,29,Adult (25-34),50.0,1,False
+CUST127,Female,33,Adult (25-34),50.0,1,False
+CUST902,Female,54,Senior (50+),50.0,1,False
+CUST906,Female,20,Young Adult (18-24),50.0,1,False
+CUST919,Female,22,Young Adult (18-24),50.0,1,False
+CUST916,Female,32,Adult (25-34),50.0,1,False
+CUST985,Female,19,Young Adult (18-24),50.0,1,False
+CUST027,Female,38,Middle Age (35-49),50.0,1,False
+CUST963,Female,55,Senior (50+),50.0,1,False
+CUST958,Male,62,Senior (50+),50.0,1,False
+CUST973,Male,60,Senior (50+),50.0,1,False
+CUST007,Male,46,Middle Age (35-49),50.0,1,False
+CUST018,Female,47,Middle Age (35-49),50.0,1,False
+CUST019,Female,62,Senior (50+),50.0,1,False
+CUST025,Female,64,Senior (50+),50.0,1,False
+CUST120,Male,60,Senior (50+),50.0,1,False
+CUST143,Female,45,Middle Age (35-49),50.0,1,False
+CUST141,Female,22,Young Adult (18-24),50.0,1,False
+CUST135,Male,20,Young Adult (18-24),50.0,1,False
+CUST134,Male,49,Middle Age (35-49),50.0,1,False
+CUST102,Female,47,Middle Age (35-49),50.0,1,False
+CUST685,Male,57,Senior (50+),50.0,1,False
+CUST113,Female,41,Middle Age (35-49),50.0,1,False
+CUST106,Female,46,Middle Age (35-49),50.0,1,False
+CUST712,Female,57,Senior (50+),50.0,1,False
+CUST450,Female,59,Senior (50+),50.0,1,False
+CUST446,Male,21,Young Adult (18-24),50.0,1,False
+CUST562,Male,54,Senior (50+),50.0,1,False
+CUST434,Female,43,Middle Age (35-49),50.0,1,False
+CUST429,Male,64,Senior (50+),50.0,1,False
+CUST694,Female,39,Middle Age (35-49),50.0,1,False
+CUST705,Male,60,Senior (50+),50.0,1,False
+CUST892,Male,20,Young Adult (18-24),50.0,1,False
+CUST890,Male,34,Adult (25-34),50.0,1,False
+CUST889,Female,35,Middle Age (35-49),50.0,1,False
+CUST391,Male,19,Young Adult (18-24),50.0,1,False
+CUST730,Female,36,Middle Age (35-49),50.0,1,False
+CUST307,Female,26,Adult (25-34),50.0,1,False
+CUST306,Male,54,Senior (50+),50.0,1,False
+CUST325,Female,52,Senior (50+),50.0,1,False
+CUST375,Male,32,Adult (25-34),50.0,1,False
+CUST339,Female,22,Young Adult (18-24),50.0,1,False
+CUST343,Male,21,Young Adult (18-24),50.0,1,False
+CUST367,Female,57,Senior (50+),50.0,1,False
+CUST286,Male,55,Senior (50+),50.0,1,False
+CUST273,Female,22,Young Adult (18-24),50.0,1,False
+CUST316,Female,48,Middle Age (35-49),50.0,1,False
+CUST321,Female,26,Adult (25-34),50.0,1,False
+CUST224,Female,25,Adult (25-34),50.0,1,False
+CUST349,Female,57,Senior (50+),50.0,1,False
+CUST170,Female,25,Adult (25-34),50.0,1,False
+CUST189,Male,63,Senior (50+),50.0,1,False
+CUST893,Male,49,Middle Age (35-49),50.0,1,False
+CUST882,Female,64,Senior (50+),50.0,1,False
+CUST172,Male,32,Adult (25-34),50.0,1,False
+CUST896,Female,30,Adult (25-34),50.0,1,False
+CUST226,Female,61,Senior (50+),50.0,1,False
+CUST798,Male,61,Senior (50+),50.0,1,False
+CUST792,Female,20,Young Adult (18-24),50.0,1,False
+CUST780,Male,52,Senior (50+),50.0,1,False
+CUST811,Male,61,Senior (50+),50.0,1,False
+CUST836,Female,22,Young Adult (18-24),50.0,1,False
+CUST774,Female,40,Middle Age (35-49),50.0,1,False
+CUST389,Male,21,Young Adult (18-24),50.0,1,False
+CUST863,Female,30,Adult (25-34),50.0,1,False
+CUST063,Male,57,Senior (50+),50.0,1,False
+CUST059,Male,62,Senior (50+),50.0,1,False
+CUST949,Female,41,Middle Age (35-49),50.0,1,False
+CUST935,Female,34,Adult (25-34),50.0,1,False
+CUST941,Female,57,Senior (50+),50.0,1,False
+CUST944,Male,44,Middle Age (35-49),50.0,1,False
+CUST207,Female,42,Middle Age (35-49),50.0,1,False
+CUST854,Male,29,Adult (25-34),50.0,1,False
+CUST851,Male,32,Adult (25-34),50.0,1,False
+CUST246,Female,48,Middle Age (35-49),50.0,1,False
+CUST857,Male,60,Senior (50+),50.0,1,False
+CUST249,Male,20,Young Adult (18-24),50.0,1,False
+CUST250,Male,48,Middle Age (35-49),50.0,1,False
+CUST258,Female,37,Middle Age (35-49),50.0,1,False
+CUST261,Male,21,Young Adult (18-24),50.0,1,False
+CUST866,Male,24,Young Adult (18-24),50.0,1,False
+CUST840,Male,62,Senior (50+),50.0,1,False
+CUST849,Male,32,Adult (25-34),50.0,1,False
+CUST846,Male,42,Middle Age (35-49),50.0,1,False
+CUST234,Female,62,Senior (50+),50.0,1,False
+CUST041,Male,34,Adult (25-34),50.0,1,False
+CUST922,Male,41,Middle Age (35-49),50.0,1,False
+CUST081,Male,40,Middle Age (35-49),50.0,1,False
+CUST606,Male,22,Young Adult (18-24),50.0,1,False
+CUST665,Male,57,Senior (50+),50.0,1,False
+CUST040,Male,45,Middle Age (35-49),50.0,1,False
+CUST629,Male,62,Senior (50+),50.0,1,False
+CUST586,Male,50,Senior (50+),50.0,1,False
+CUST996,Male,62,Senior (50+),50.0,1,False
+CUST618,Female,27,Adult (25-34),50.0,1,False
+CUST627,Male,57,Senior (50+),50.0,1,False
+CUST995,Female,41,Middle Age (35-49),30.0,1,False
+CUST617,Male,34,Adult (25-34),30.0,1,False
+CUST601,Male,19,Young Adult (18-24),30.0,1,False
+CUST650,Male,55,Senior (50+),30.0,1,False
+CUST670,Male,27,Adult (25-34),30.0,1,False
+CUST659,Female,39,Middle Age (35-49),30.0,1,False
+CUST066,Female,45,Middle Age (35-49),30.0,1,False
+CUST940,Female,20,Young Adult (18-24),30.0,1,False
+CUST926,Male,22,Young Adult (18-24),30.0,1,False
+CUST933,Male,22,Young Adult (18-24),30.0,1,False
+CUST100,Male,41,Middle Age (35-49),30.0,1,False
+CUST090,Female,51,Senior (50+),30.0,1,False
+CUST057,Female,63,Senior (50+),30.0,1,False
+CUST045,Female,55,Senior (50+),30.0,1,False
+CUST802,Female,46,Middle Age (35-49),30.0,1,False
+CUST804,Male,42,Middle Age (35-49),30.0,1,False
+CUST305,Female,18,Young Adult (18-24),30.0,1,False
+CUST268,Female,28,Adult (25-34),30.0,1,False
+CUST255,Male,48,Middle Age (35-49),30.0,1,False
+CUST116,Female,23,Young Adult (18-24),30.0,1,False
+CUST901,Male,31,Adult (25-34),30.0,1,False
+CUST518,Female,40,Middle Age (35-49),30.0,1,False
+CUST195,Male,52,Senior (50+),30.0,1,False
+CUST874,Male,60,Senior (50+),30.0,1,False
+CUST878,Female,20,Young Adult (18-24),30.0,1,False
+CUST879,Male,23,Young Adult (18-24),30.0,1,False
+CUST733,Male,34,Adult (25-34),30.0,1,False
+CUST894,Male,52,Senior (50+),30.0,1,False
+CUST734,Female,27,Adult (25-34),30.0,1,False
+CUST396,Female,55,Senior (50+),30.0,1,False
+CUST749,Male,42,Middle Age (35-49),30.0,1,False
+CUST753,Female,32,Adult (25-34),30.0,1,False
+CUST747,Male,23,Young Adult (18-24),30.0,1,False
+CUST793,Male,54,Senior (50+),30.0,1,False
+CUST387,Male,44,Middle Age (35-49),30.0,1,False
+CUST344,Female,42,Middle Age (35-49),30.0,1,False
+CUST345,Male,62,Senior (50+),30.0,1,False
+CUST376,Female,64,Senior (50+),30.0,1,False
+CUST485,Male,24,Young Adult (18-24),30.0,1,False
+CUST438,Female,42,Middle Age (35-49),30.0,1,False
+CUST566,Female,64,Senior (50+),30.0,1,False
+CUST140,Male,38,Middle Age (35-49),30.0,1,False
+CUST029,Female,42,Middle Age (35-49),30.0,1,False
+CUST006,Female,45,Middle Age (35-49),30.0,1,False
+CUST003,Male,50,Senior (50+),30.0,1,False
+CUST974,Male,47,Middle Age (35-49),30.0,1,False
+CUST579,Female,38,Middle Age (35-49),30.0,1,False
+CUST483,Male,55,Senior (50+),30.0,1,False
+CUST489,Male,44,Middle Age (35-49),30.0,1,False
+CUST451,Female,45,Middle Age (35-49),30.0,1,False
+CUST772,Male,26,Adult (25-34),30.0,1,False
+CUST285,Female,31,Adult (25-34),25.0,1,False
+CUST310,Female,28,Adult (25-34),25.0,1,False
+CUST318,Male,61,Senior (50+),25.0,1,False
+CUST044,Female,22,Young Adult (18-24),25.0,1,False
+CUST657,Male,40,Middle Age (35-49),25.0,1,False
+CUST585,Female,24,Young Adult (18-24),25.0,1,False
+CUST309,Female,26,Adult (25-34),25.0,1,False
+CUST201,Male,56,Senior (50+),25.0,1,False
+CUST204,Male,39,Middle Age (35-49),25.0,1,False
+CUST205,Female,43,Middle Age (35-49),25.0,1,False
+CUST206,Male,61,Senior (50+),25.0,1,False
+CUST855,Male,54,Senior (50+),25.0,1,False
+CUST242,Male,21,Young Adult (18-24),25.0,1,False
+CUST236,Female,54,Senior (50+),25.0,1,False
+CUST658,Male,59,Senior (50+),25.0,1,False
+CUST945,Male,30,Adult (25-34),25.0,1,False
+CUST952,Female,57,Senior (50+),25.0,1,False
+CUST230,Male,54,Senior (50+),25.0,1,False
+CUST232,Female,43,Middle Age (35-49),25.0,1,False
+CUST764,Female,40,Middle Age (35-49),25.0,1,False
+CUST739,Male,36,Middle Age (35-49),25.0,1,False
+CUST397,Female,30,Adult (25-34),25.0,1,False
+CUST744,Male,40,Middle Age (35-49),25.0,1,False
+CUST877,Female,58,Senior (50+),25.0,1,False
+CUST379,Female,47,Middle Age (35-49),25.0,1,False
+CUST825,Female,46,Middle Age (35-49),25.0,1,False
+CUST371,Female,20,Young Adult (18-24),25.0,1,False
+CUST388,Male,50,Senior (50+),25.0,1,False
+CUST347,Male,42,Middle Age (35-49),25.0,1,False
+CUST790,Male,62,Senior (50+),25.0,1,False
+CUST787,Male,41,Middle Age (35-49),25.0,1,False
+CUST791,Female,51,Senior (50+),25.0,1,False
+CUST223,Female,64,Senior (50+),25.0,1,False
+CUST185,Male,24,Young Adult (18-24),25.0,1,False
+CUST191,Male,64,Senior (50+),25.0,1,False
+CUST558,Female,41,Middle Age (35-49),25.0,1,False
+CUST427,Male,25,Adult (25-34),25.0,1,False
+CUST423,Female,27,Adult (25-34),25.0,1,False
+CUST362,Male,50,Senior (50+),25.0,1,False
+CUST363,Male,64,Senior (50+),25.0,1,False
+CUST512,Female,57,Senior (50+),25.0,1,False
+CUST454,Female,46,Middle Age (35-49),25.0,1,False
+CUST468,Male,40,Middle Age (35-49),25.0,1,False
+CUST907,Female,45,Middle Age (35-49),25.0,1,False
+CUST103,Female,59,Senior (50+),25.0,1,False
+CUST544,Female,27,Adult (25-34),25.0,1,False
+CUST486,Female,35,Middle Age (35-49),25.0,1,False
+CUST979,Female,19,Young Adult (18-24),25.0,1,False
+CUST989,Female,44,Middle Age (35-49),25.0,1,False
+CUST955,Male,58,Senior (50+),25.0,1,False
+CUST967,Male,62,Senior (50+),25.0,1,False
